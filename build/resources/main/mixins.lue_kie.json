@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.sammy.lue_kie.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LivingEntityHooksMixin",
+    "PlayerHooksMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "mixins.lue_kie.refmap.json"
+}

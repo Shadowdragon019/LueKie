@@ -1,0 +1,8 @@
++ Figure out what nerfs are applied
++ Update config with a custom command
+
+# NERFS (wait there's a fucking mixin package, did these mfs make the hooks just to allow people to mixin into their mixins easier???)
+- LivingEntityHooks.getArmorValue
++ PlayerHooks.isNerfableTool
+
+I wonder how janky BS is with all these mixins

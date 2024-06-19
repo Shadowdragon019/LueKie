@@ -1,0 +1,15 @@
+Java Launcher: /home/mainy/.jdks/jbr-17.0.9/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /home/mainy/.gradle/caches/modules-2/files-2.1/curse.maven/structure-gel-api-378802/4765558/bb51b7f6c13ece3dd15f417b2442a9b435841b88/structure-gel-api-378802-4765558.jar, --output, /home/mainy/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/structure-gel-api-378802/4765558_mapped_official_1.19.2/structure-gel-api-378802-4765558_mapped_official_1.19.2.jar, --mcp, /home/mainy/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.19.2/mapping-1.19.2-mapping.zip, --strip-signatures'
+Classpath:
+ - /home/mainy/.gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.3.2/installertools-1.3.2-fatjar.jar
+Working directory: /home/mainy/IdeaProjects/Lue Kies 1.19.2/build/_RenameSrg2Mcp_365211712
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /home/mainy/.gradle/caches/modules-2/files-2.1/curse.maven/structure-gel-api-378802/4765558/bb51b7f6c13ece3dd15f417b2442a9b435841b88/structure-gel-api-378802-4765558.jar
+Output: /home/mainy/.gradle/caches/forge_gradle/deobf_dependencies/curse/maven/structure-gel-api-378802/4765558_mapped_official_1.19.2/structure-gel-api-378802-4765558_mapped_official_1.19.2.jar
+MCP:    /home/mainy/.gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.19.2/mapping-1.19.2-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

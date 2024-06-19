@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: lue_kie
+Specification-Vendor: Sammy
+Specification-Version: 1
+Implementation-Title: Lue Kies 1.19.2
+Implementation-Version: 1.0.0
+Implementation-Vendor: Sammy
+Implementation-Timestamp: 2024-06-16T16:02:19-0500
+MixinConfigs: mixins.lue_kie.json
+
