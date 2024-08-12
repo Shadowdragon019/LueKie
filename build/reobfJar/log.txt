@@ -129,6 +129,10 @@ Writing Output: /home/mainy/IdeaProjects/Lue Kies 1.19.2/build/reobfJar/output.j
   META-INF/
   META-INF/MANIFEST.MF
   META-INF/mods.toml
+  assets/
+  assets/lue_kie/
+  assets/lue_kie/textures/
+  assets/lue_kie/textures/logo.png
   com/
   com/sammy/
   com/sammy/lue_kie/
